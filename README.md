@@ -1,2 +1,2 @@
 # Train8086assembly
-Its me training 8086 assembly. Im also too new on programming.
+Im trying to learn assembly first becoz i believe that the best way to learn is too learn in hard way..
